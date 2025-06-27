@@ -1,4 +1,4 @@
-# 🍽️ Assistente de Cardápio com GPT-4o
+# Assistente de Cardápio com GPT-4o
 
 Este projeto implementa um assistente virtual inteligente baseado em LLM (modelo de linguagem de grande escala) da OpenAI, especificamente o **GPT-4o**, para responder a perguntas sobre o cardápio de um restaurante. O sistema foi desenvolvido utilizando **LangChain**, **Streamlit**, e **FAISS** para indexação semântica dos dados.
 
