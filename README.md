@@ -4,13 +4,13 @@ Este projeto implementa um assistente virtual inteligente baseado em LLM (modelo
 
 ---
 
-## 💡 Objetivo
+## Objetivo
 
 Criar uma aplicação interativa capaz de compreender e responder dúvidas dos clientes com base nas informações do cardápio fornecido em texto. O foco é demonstrar a aplicação prática de IA generativa e recuperação de contexto (RAG - Retrieval-Augmented Generation).
 
 ---
 
-## 🧱 Arquitetura
+## Arquitetura
 
 O sistema está dividido em três principais componentes:
 
@@ -25,7 +25,7 @@ Desenvolvida com **Streamlit**, a interface oferece um campo de entrada para per
 
 ---
 
-## 🧪 Execução
+## Execução
 
 ### Pré-requisitos
 
@@ -50,7 +50,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **LangChain**: Orquestração da cadeia de LLM + RAG
 - **OpenAI GPT-4o**: Modelo de linguagem natural
@@ -60,7 +60,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 .
@@ -82,7 +82,7 @@ streamlit run app.py
 
 ---
 
-## 📚 Possíveis Extensões
+## Possíveis Extensões
 
 - Adicionar opção de chat contínuo (com histórico de mensagens)
 - Suporte a múltiplos cardápios (por restaurante)
@@ -91,12 +91,12 @@ streamlit run app.py
 
 ---
 
-## 👨‍🎓 Sobre
+## Sobre
 
 Este projeto foi desenvolvido como exercício prático para aplicação de técnicas modernas de NLP e RAG utilizando LLMs em um cenário real de atendimento ao cliente.
 
 ---
 
-## 📬 Contato
+## Contato
 
 Em caso de dúvidas ou sugestões, fique à vontade para entrar em contato via [seu-email ou LinkedIn].
