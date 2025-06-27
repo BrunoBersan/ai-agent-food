@@ -29,7 +29,7 @@ Desenvolvida com **Streamlit**, a interface oferece um campo de entrada para per
 
 ### Pré-requisitos
 
-- Python 3.10+
+- Python 3.11
 - Chave de API da OpenAI
 - Arquivo `.env` com sua chave:
   ```
