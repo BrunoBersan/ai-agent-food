@@ -6,12 +6,16 @@ langchain-openai==0.1.7
 langchain-huggingface==0.0.1
 openai==1.16.1
 
+# Embeddings e Vetorstore
+faiss-cpu
+sentence-transformers==2.6.1
+tiktoken
+
 # Transformers e HuggingFace
 transformers==4.39.3
 accelerate==0.29.3
-sentence-transformers==2.6.1  # necessário para embeddings
 
-# Streamlit e mapas
+# Streamlit
 streamlit==1.32.2
 streamlit-folium==0.19.0
 
@@ -25,3 +29,7 @@ python-dotenv
 protobuf<5
 packaging<24
 numpy<2.0
+
+# Dependências auxiliares
+typing-extensions
+pydantic

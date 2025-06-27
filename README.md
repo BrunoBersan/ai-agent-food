@@ -64,7 +64,7 @@ streamlit run main.py
 
 ```
 .
-├── app.py                         # Interface com o usuário (Streamlit)
+├── main.py                         # Interface com o usuário (Streamlit)
 ├── requirements.txt
 ├── .env                           # (não versionado) API Key
 └── src/
