@@ -21,12 +21,9 @@ if st.button("Perguntar"):
     if not user_question.strip():
         st.warning("Por favor, digite uma pergunta.")
     else:
-        with st.spinner("Pensando..."):
-            # AQUI ESTÁ A MUDANÇA PRINCIPAL:
-            # Use .invoke() e acesse a chave 'result'
+        with st.spinner("Pensando..."):            
             response = agent.invoke({"query": user_question})
             result_text = response.get('result', 'Não foi possível obter uma resposta.')
-            source_docs = response.get('source_documents', []) # Opcional: para exibir as fontes
 
             st.success("Resposta:")
             st.write(result_text)
