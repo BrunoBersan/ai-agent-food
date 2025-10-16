@@ -99,4 +99,4 @@ Este projeto foi desenvolvido como exercício prático para aplicação de técn
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, fique à vontade para entrar em contato via [seu-email ou LinkedIn].
+Em caso de dúvidas ou sugestões, fique à vontade para entrar em contato via https://www.linkedin.com/in/bruno-bersan/
